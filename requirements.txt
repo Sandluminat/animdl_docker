@@ -1,0 +1,2 @@
+animdl==1.6.52
+streamlit==1.12.2
